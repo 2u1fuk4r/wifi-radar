@@ -29,6 +29,7 @@ Aşağıdaki adımları izleyerek gerekli bağımlılıkları kurabilirsiniz:
 Kurulum tamamlandıktan sonra, aracı başlatmak için aşağıdaki komutu kullanabilirsiniz:
 Wifi kartınızın dinleme modunda oolması gerekmektedir.
 
+```bash
 ifconfig wlan0 down
 iwconfig wlano mode manitor
 ifconfig wlan0 up
