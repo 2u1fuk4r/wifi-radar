@@ -2,7 +2,7 @@
 
 Bu araç, WiFi ağınızı izlemek ve deauth saldırılarını tespit etmek için kullanılır. Saldırı tespit edildiğinde, saldırganın MAC adresini ve saldırı türünü ekranda gösterir.
 
-![logo](https://img.lovepik.com/free-png/20220125/lovepik-radar-material-png-image_401719625_wh860.png)
+![wifi-radar](https://github.com/2u1fuk4r/wifi-radar/assets/48758393/500f3bbc-814c-4573-adbd-de1ac8e6cf7a)
 
 ## Gereksinimler
 
