@@ -4,6 +4,7 @@ Bu araç, WiFi ağınızı izlemek ve deauth saldırılarını tespit etmek içi
 
 ![wifi-radar](https://github.com/2u1fuk4r/wifi-radar/assets/48758393/500f3bbc-814c-4573-adbd-de1ac8e6cf7a)
 
+
 ## Gereksinimler
 
 - Python 3
