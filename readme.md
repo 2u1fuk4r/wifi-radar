@@ -29,9 +29,9 @@ Aşağıdaki adımları izleyerek gerekli bağımlılıkları kurabilirsiniz:
 Kurulum tamamlandıktan sonra, aracı başlatmak için aşağıdaki komutu kullanabilirsiniz:
 Wifi kartınızın dinleme modunda oolması gerekmektedir.
 
-ifconfig wlan0 down /n
-iwconfig wlano mode manitor /n
-ifconfig wlan0 up /n
+ifconfig wlan0 down
+iwconfig wlano mode manitor
+ifconfig wlan0 up
 
 ```bash
 python3 wifi-radar.py
