@@ -21,7 +21,7 @@ Aşağıdaki adımları izleyerek gerekli bağımlılıkları kurabilirsiniz:
     chmod +x install.sh
     ./install.sh
     ```
-
+![giphy](https://github.com/2u1fuk4r/wifi-radar/assets/48758393/e3990332-503c-44d5-830e-9da8d7d3209b)
 2. Yukarıdaki komutlar gerekli tüm paketleri ve bağımlılıkları kuracaktır.
 
 ## Kullanım
