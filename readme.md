@@ -32,7 +32,7 @@ Wifi kartınızın dinleme modunda oolması gerekmektedir.
 
 ```bash
 ifconfig wlan0 down
-iwconfig wlano mode monitor
+iwconfig wlan0 mode monitor
 ifconfig wlan0 up
 
 ```bash
