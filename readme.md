@@ -1,34 +1,35 @@
 ![giphy (2)](https://github.com/2u1fuk4r/wifi-radar/assets/48758393/1a18f2ac-601a-4f69-916b-b65e9cc32e88)
-# WiFi Güvenlik İzleyicisi
+# WiFi Security Monitor
 
-Bu araç, WiFi ağınızı izlemek ve deauth saldırılarını tespit etmek için kullanılır. Saldırı tespit edildiğinde, saldırganın MAC adresini ve saldırı türünü tespit eder.
+This tool is used to monitor your WiFi network and detect death attacks. Intrusion detection changes detect the attacker's MAC address and attack components.
 
 ![wifi-radar](https://github.com/2u1fuk4r/wifi-radar/assets/48758393/500f3bbc-814c-4573-adbd-de1ac8e6cf7a)
 
-## Gereksinimler
+## Requirements
 
 - Python 3
-- pip (Python paket yöneticisi)
+- pip 
 - Scapy
 - Tkinter
 
-## Kurulum
+## Install
 
-Aşağıdaki adımları izleyerek gerekli bağımlılıkları kurabilirsiniz:
+You can install the necessary dependencies by following the steps below:
 
-1. `install.sh` scriptini çalıştırın:
+1. `install.sh` run the script:
 
     ```bash
     chmod +x install.sh
     ./install.sh
     ```
 
-2. Yukarıdaki komutlar gerekli tüm paketleri ve bağımlılıkları kuracaktır.
 
-## Kullanım
+2. The above commands will install all required packages and dependencies.
 
-Kurulum tamamlandıktan sonra, aracı başlatmak için aşağıdaki komutu kullanabilirsiniz:
-Wifi kartınızın dinleme modunda oolması gerekmektedir.
+## Use
+
+Once the installation is complete, you can use the following command to launch the tool:
+Your wifi card must be in listening mode.
 
 ```bash
 ifconfig wlan0 down
