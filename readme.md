@@ -35,6 +35,8 @@ Your wifi card must be in listening mode.
 ifconfig wlan0 down
 iwconfig wlan0 mode monitor
 ifconfig wlan0 up
-
+```
+run
 ```bash
 python3 wifi-radar.py
+```
